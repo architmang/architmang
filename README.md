@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <br />
 
-I am a Pre-final year undegraduate student of IIT Kharagpur, majoring in Computer Science & Engineering.
+I am a pre-final year undegraduate student of IIT Kharagpur, majoring in Computer Science & Engineering.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning transformers library and Pre trained Computer Vision structures in detail .
+- 🌱 I’m currently learning transformers library and pre-trained Computer Vision structures in detail .
 - 👯 I’m looking to collaborate on NLP projects .
 - 📫 How to reach me: archit.mangrulkar@gmail.com  
 
