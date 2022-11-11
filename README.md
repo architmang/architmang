@@ -80,9 +80,6 @@ I am a pre-final year undegraduate student of IIT Kharagpur, majoring in Compute
 
 [![Archit's github activity graph](https://activity-graph.herokuapp.com/graph?username=architmang&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://hit.yhype.me/github/profile?user_id=77543865)
+<img align="left" height=180em src="https://github-readme-stats.vercel.app/api?username=architmang&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"></img></a>
 
-
-<img align="left" height=180em src="https://github-readme-stats.vercel.app/api?username=architmang&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architmang&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architmang&hide=TeX&layout=compact&theme=tokyonight)
