@@ -43,7 +43,7 @@ Software Engineer at Samsung Research, specializing in enhancing user experience
 - Over 6 months of industry experience and 3+ years in academic research with Expertise in advanced QA systems, domain adaptation, and performance optimization
 - Completed my Bachelors in Computer Science from the Indian Institute of Technology (IIT) Kharagpur in April 2024
 - NLP and Computer Vision: Research experience in stance and premise classification, with a published paper at SMM4H (COLING 2022) on COVID-19 Twitter dataset analysis 
--3D Human Pose Estimation: MITACS'23 internship at the University of Alberta, leveraging 3D transformers and attention-based methods for point cloud reconstruction
+- 3D Human Pose Estimation: MITACS'23 internship at the University of Alberta, leveraging 3D transformers and attention-based methods for point cloud reconstruction
 - Hardware and Deep Learning: Research at TU Dresden designing C++-based approximate multipliers for TensorFlow Lite
 - 👯 I’m looking to collaborate on Computer Vision projects [archit.mangrulkar@gmail.com]  
 
